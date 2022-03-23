@@ -1,4 +1,4 @@
-# php-maps-api
+# php-geocoding-api
 
 A basic example of retrieving data using the Google Maps API and PHP. 
 
