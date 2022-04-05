@@ -1,7 +1,6 @@
 <?php
 
-// Public Books API endpoints will work with a blank API key
-// Or create an API key in the Google Cloud Console
+// Create an API key in the Google Cloud Console
 // https://console.cloud.google.com/
 
 $key = '';
