@@ -1,4 +1,4 @@
-# php-geocoding-api
+# Using PHP with the Google Geocoding API
 
 A basic example of geocoding and address and then using that data to display a map using the Google Maps Static API. 
 
