@@ -3,7 +3,7 @@
 // Create an API key in the Google Cloud Console
 // https://console.cloud.google.com/
 
-$key = '';
+$key = '<GOOGLE_GEOCODE_API_KEY>';
 $address = urlencode('205 Humber College Blvd, Etobicoke, ON M9W 5L7');
 
 ?>
