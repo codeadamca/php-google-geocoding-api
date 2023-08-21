@@ -6,7 +6,7 @@ The API endpoints in this example require an API key. You can retrieve an API ke
 
 1. Go to the [Google Cloud Console](https://console.cloud.google.com/) 
 2. Create an API key
-3. Put your API key into the first line of PHP in the ```geocoding.php``` file
+3. Put your API key into the first line of PHP in the `geocoding.php` file
 4. Upload your files to a PHP server and test
 
 ***
