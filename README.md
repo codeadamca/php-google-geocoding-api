@@ -9,7 +9,9 @@ The API endpoints in this example require an API key. You can retrieve an API ke
 3. Put your API key into the first line of PHP in the ```geocoding.php``` file
 4. Upload your files to a PHP server and test
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Google Maps API](https://developers.google.com/maps)
