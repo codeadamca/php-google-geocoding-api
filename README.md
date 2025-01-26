@@ -17,6 +17,7 @@ The API endpoints in this example require an API key. You can retrieve an API ke
 * [Google Maps API](https://developers.google.com/maps)
 * [Google Maps Static API](https://developers.google.com/maps/documentation/maps-static/overview)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
